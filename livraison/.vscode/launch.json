@@ -1,0 +1,119 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_8b759f77"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_2e5413e5"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_2480bf98"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "experience.Main",
+      "projectName": "livraison_8a5dfb6e"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_d6c9c830"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_e5573657"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "model.generateur.Main",
+      "projectName": "livraison_8381378c"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_8381378c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "model.algo.Main",
+      "projectName": "livraison_8a5dfb6e"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "model.generateur.Main",
+      "projectName": "livraison_8a5dfb6e"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_8a5dfb6e"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "algo.Main",
+      "projectName": "livraison_5f319a9d"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "model.algo.Main",
+      "projectName": "livraison_5f319a9d"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "vue.Demo",
+      "projectName": "livraison_5f319a9d"
+    },
+    {
+      "type": "java",
+      "name": "Run JavaFX",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path /Users/boubacarsadiodiallo/Documents/javafx-sdk-21.0.6 --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
